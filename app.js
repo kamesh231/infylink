@@ -18,7 +18,7 @@ const morgan = require("morgan");
 const errorController = require("./controllers/errorController");
 const User = require("./models/userModel");
 
-const MONGODB_URI = process.env.MONGO_URI;
+const MONGODB_URI = process.env.MONGODB_URI;
 
 const app = express();
 const store = new MongoDBStore({ uri: MONGODB_URI, collections: "sessions" });
