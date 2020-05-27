@@ -1,5 +1,5 @@
-# infylink
-A basic tool enabling users to have multiple links in their Instagram Bio https://infy.link
+# ismart.me
+A basic tool enabling users to have multiple links in their Instagram Bio 
 
 ## Details about tech stack
 1. The basic tech stack is Node/Express/MongoDB/Bootstrap
